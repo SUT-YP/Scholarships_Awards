@@ -1,1 +1,1 @@
-# Scholarships_Awards
+It stores my diplomas and certifica.
